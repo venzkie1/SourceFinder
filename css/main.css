@@ -230,7 +230,7 @@ body{
 }
 
 .card-left{
-    width: 10%;
+    width: 15%;
     min-width: 50px;
     display: flex;
     justify-content: center;
@@ -238,7 +238,7 @@ body{
 }
 
 .card-left img {
-    width: 100%;
+    width: 130%;
     height: auto;
     min-height: 60px;
     padding: 1rem;
